@@ -1,7 +1,7 @@
 [package]
-name = "jarvis_discord_bot"
-version = "0.1.0"
-edition = "2021"
+name = "jarvis"
+version = "0.2.0"
+edition = "2025"
 
 [dependencies]
 dotenv = "0.15.0"
